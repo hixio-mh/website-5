@@ -98,8 +98,12 @@ GEM
     mercenary (0.3.6)
     method_source (1.0.0)
     mini_portile2 (2.8.0)
+ dependabot/bundler/tool/docker/nokogiri-1.13.9
+    minitest (5.14.2)
+    nokogiri (1.13.9)
     minitest (5.15.0)
     nokogiri (1.13.4)
+ master
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -109,6 +113,7 @@ GEM
     public_suffix (5.0.0)
     public_suffix (4.0.5)
     racc (1.6.0)
+ dependabot/bundler/tool/docker/nokogiri-1.13.9
  master
     rack (2.2.3)
     rack-test (1.1.0)
